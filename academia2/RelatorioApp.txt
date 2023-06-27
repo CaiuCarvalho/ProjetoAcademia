@@ -1,0 +1,19 @@
+Se trata de um sistema de cadastro e gerenciamento das entidades: professor, aluno, unidade e treino de uma academia. O sistema é baseado em um menu interativo que permite executar várias ações relacionadas a essas entidades.
+O código utiliza uma estrutura para executar diferentes blocos de código com base na opção selecionada pelo usuário. Dependendo da opção escolhida, o programa chama diferentes métodos para realizar as respectivas operações.
+
+As opções disponíveis incluem:
+
+0: Encerrar o programa.
+1: Cadastrar um novo professor.
+2: Realizar login como professor.
+3: Deslogar o professor.
+4: Cadastrar um aluno.
+5: Indicar um professor para um aluno.
+6: Cadastrar um treino.
+7: Indicar um treino a um aluno.
+8: Cadastrar uma nova unidade.
+9: Indicar uma unidade a uma pessoa (aluno/professor).
+10: Apresentar todas as estatísticas do banco de dados.
+11: Apresentar estatísticas de um aluno ou professor por ID.
+12: Opção não especificada no código.
+13: Limpar o banco de dados.
